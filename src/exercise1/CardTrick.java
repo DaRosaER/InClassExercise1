@@ -14,7 +14,7 @@ public class CardTrick {
     
     public static void main(String[] args) {
 	    
-	System.out.println(getInto());
+	System.out.println(getInfo());
         
         Card[] hand = new Card[7];
 
