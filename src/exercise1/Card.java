@@ -22,6 +22,10 @@ public class Card {
     public String getSuit() {
         return suit;
     }
+   
+   public void getInto() {
+      System.out.println("My Name is Eric DaRosa);
+   }
 
     /**
      * @param suit the suit to set
