@@ -13,6 +13,8 @@ package exercise1;
 public class CardTrick {
     
     public static void main(String[] args) {
+	    
+	System.out.println(getInto());
         
         Card[] hand = new Card[7];
 
